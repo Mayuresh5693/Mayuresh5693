@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayuresh
-- 👀 I’m interested in python , sql , data science ,spark ,hadoop
-- 🌱 I’m currently learning python ,sql , spark ,hadoop
+- 👀 I’m interested in Python , SQL , Big data , Hive , Spark , Hadoop
+- 🌱 I’m currently learning Python , Sql , Spark , Hadoop
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on mail mayureshdhule739@gmail.com
 
